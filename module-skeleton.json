@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-forecasting-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-forecasting",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-forecasting-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/forecasting.md",
+  "presentationPlan": "projects/crm/nuxt/forecasting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
